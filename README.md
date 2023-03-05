@@ -16,7 +16,7 @@
 - Test frameworks and tools: React Testing Library, Jest, Jasmine, Storybook, Playwright
 
 ## 👯 I’m looking to collaborate on:
-- Writing a tiny, efficient compiler for learning
+- Writing a small compiler
 - Creating Rust CLI tools
 
 ## 📫 How to reach me:
