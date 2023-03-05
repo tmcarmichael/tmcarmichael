@@ -32,13 +32,13 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_lines: yes
 
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          output_action: gist
-          committer_gist: 53e0408f523d8d298880ad3add06267b
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+#       - name: Full-year calendar
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics.plugin.isocalendar.fullyear.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           output_action: gist
+#           committer_gist: 53e0408f523d8d298880ad3add06267b
+#           base: ""
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: full-year
