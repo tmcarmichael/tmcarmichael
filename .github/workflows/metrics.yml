@@ -42,7 +42,7 @@ jobs:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
-          committer_gist: 53e0408f523d8d298880ad3add06267b
+          committer_gist: 2cf5402051ccf56e23ad9f7f04603dc0
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
