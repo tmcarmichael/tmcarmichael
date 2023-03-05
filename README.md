@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![](https://gist.github.com/tmcarmichael/53e0408f523d8d298880ad3add06267b/raw/github-metrics.svg))
+![](https://gist.github.com/tmcarmichael/53e0408f523d8d298880ad3add06267b/raw/github-metrics.svg)
 
 ## 🔭 I’m currently working on 
 - Microsoft Teams App
