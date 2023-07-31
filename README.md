@@ -20,5 +20,5 @@
 - Creating Rust CLI tools
 
 ## 📫 How to reach me:
-**Discord**: `this.this.this#7112`
+**Discord**: `itom_`
 
