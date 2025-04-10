@@ -7,7 +7,8 @@
   
 ## 🌱 I’m currently learning:
 - SolidJS/WASM
-- AL/ML implementations
+- Applied AL/ML
+- Rust Programming Language
 
 ## 👯 I’m looking to collaborate on:
 - AI/ML applications
