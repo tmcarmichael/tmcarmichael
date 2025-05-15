@@ -2,13 +2,11 @@
 
 ## 🔭 I’m currently working on 
 - [work] Microsoft Teams
-- [personal] MCP Reference Architecture / Sandbox
+- [personal] AI Integrations and Inference Projects
 - [personal] Chess app with SolidJS, TypeScript, Stockfish AI 
   
 ## 🌱 I’m currently learning:
-- SolidJS/WASM
-- Applied AL/ML
-- Rust Programming Language
+- Rust
 
 ## 👯 I’m looking to collaborate on:
 - AI/ML applications
