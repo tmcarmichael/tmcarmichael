@@ -14,7 +14,7 @@
 - Frontend frameworks and libraries (TypeScript / JavaScript)
 - Rust–WASM modules and libraries
 - Cryptography and post-quantum crypto
-- [My chess PWA](https://nxtchess.up.railway.app/)
+- [NxtChess multiplayer chess PWA](https://nxtchess.up.railway.app/)
 
 ## 📫 How to reach me:
 **Discord**: `mhtiroglas`
