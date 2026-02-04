@@ -7,13 +7,12 @@
   
 ## 🌱 I’m currently learning:
 - Rust and WebAssembly
-- Modern cryptography
+- Cryptography and identity (authn/authz, post-quantum)
 - Progressive Web Apps (PWAs)
 
 ## 👯 I’m open to collaborating on:
-- Frontend frameworks and libraries (TypeScript / JavaScript)
 - Rust–WASM modules and libraries
-- Cryptography and post-quantum crypto
+- Cryptography and identity (authn/authz, post-quantum)
 - [NxtChess multiplayer chess PWA](https://nxtchess.up.railway.app/)
 
 ## 📫 How to reach me:
