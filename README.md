@@ -2,15 +2,20 @@
 
 ## 🔭 I’m currently working on 
 - [work] Microsoft Teams
-- [personal] AI Integrations and Inference Projects
-- [personal] Chess app with SolidJS, TypeScript, Stockfish AI 
+- [personal] Multiplayer chess PWA (SolidJS + TypeScript frontend, Go backend with WebSockets, PostgreSQL, Redis)
+- [personal] Rust to WASM libraries for core client-side logic
   
 ## 🌱 I’m currently learning:
-- Rust
+- Rust and WebAssembly
+- Modern cryptography
+- Progressive Web Apps (PWAs)
 
-## 👯 I’m looking to collaborate on:
-- AI/ML applications
+## 👯 I’m open to collaborating on:
+- Frontend frameworks and libraries (TypeScript / JavaScript)
+- Rust–WASM modules and libraries
+- Cryptography and post-quantum crypto
+- [My chess PWA](https://nxtchess.up.railway.app/)
 
 ## 📫 How to reach me:
-**Discord**: `valiecturion`
+**Discord**: `mhtiroglas`
 
