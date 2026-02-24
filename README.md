@@ -1,7 +1,7 @@
 ## Hello 👋
 
 ## 🔭 I’m currently working on 
-- [work] Microsoft Teams
+- [work] Azure Storage
 - [personal] Multiplayer chess PWA (SolidJS + TypeScript frontend, Go backend with WebSockets, PostgreSQL, Redis)
 - [personal] Rust to WASM libraries for core client-side logic
   
